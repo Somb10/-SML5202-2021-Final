@@ -21,5 +21,4 @@ title: home
   <li>Thursday</li>
   <li>Friday</li>
 </ul>  
-</body>
-</html>
+
