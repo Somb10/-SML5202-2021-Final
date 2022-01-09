@@ -25,7 +25,7 @@ title: Page2
  
  <div class="col-sm-10">
   <p>How To Say Hello</p>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/zkr2j3SDdYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/zkr2j3SDdYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </div>
  
  </div>
