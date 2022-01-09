@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 ---
 title: Home
 ---
-<!DOCTYPE html>
+
 <html>
 <body>
 <html lang="en">
