@@ -16,7 +16,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Style the header */
 header {
   background-color: #666;
   padding: 30px;
@@ -25,19 +24,16 @@ header {
   color: white;
 }
 
-/* Create two columns/boxes that floats next to each other */
+
 nav {
   float: left;
   width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
+  height: 300px; 
   background: #ccc;
   padding: 20px;
 }
 
-/* Style the list inside the menu */
-nav ul {
-  list-style-type: none;
-  padding: 0;
+
 }
 
 article {
@@ -45,17 +41,17 @@ article {
   padding: 20px;
   width: 70%;
   background-color: #f1f1f1;
-  height: 300px; /* only for demonstration, should be removed */
+  height: 300px; 
 }
 
-/* Clear floats after the columns */
+
 section::after {
   content: "";
   display: table;
   clear: both;
 }
 
-/* Style the footer */
+
 footer {
   background-color: #777;
   padding: 10px;
@@ -68,6 +64,7 @@ footer {
   nav, article {
     width: 100%;
     height: auto;
+
   }
 }
 </style>
@@ -128,6 +125,8 @@ footer {
 
 </body>
 </html>
+
+
 <h1>Welcome</h1>
 <p>Welcome to German made easy. Many beginner level language students have the misconception that German is an almost impossible language to learn. Our aim is to prove to you that with the right tools, anything is possible.</p>
 
