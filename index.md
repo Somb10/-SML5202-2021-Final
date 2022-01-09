@@ -2,6 +2,8 @@
 title: Home
 ---
 <!DOCTYPE html>
+<html>
+<body>
 <html lang="en">
 <head>
   <h1>Welcome</h1>
