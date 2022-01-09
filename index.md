@@ -65,7 +65,7 @@ title: Home
   </article>
 
 <footer>
-  <p>German Made Easy</p>
+  <p>German Made Easy by Sophie Brett 200231613</p>
 </footer>
 
 </body>
