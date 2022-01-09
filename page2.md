@@ -43,48 +43,76 @@ title: Page2
     <thead>
       <tr>
         <th></th>
-        <th>Infinitive</th>
-        <th>Past simple</th>
-        <th>Past participal</th>
+        <th>Nominative</th>
+        <th>Accusative</th>
+        <th>Dative</th>
+       <th>Genitive</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>I</td>
-        <td>Go</td>
-        <td>went</td>
-        <td>have gone</td>
+        <td>Ich</td>
+        <td>Mich</td>
+        <td>Mir</td>
+       <td>Meiner</td>
       </tr>
       <tr>
         <td>You</td>
-        <td>Go</td>
-        <td>went</td>
-        <td>have gone</td>
+        <td>Du</td>
+        <td>Dich</td>
+        <td>Dir</td>
+       <td>Deiner</td>
       </tr>
       <tr>
-        <td>He/she/it</td>
-        <td>Goes</td>
-        <td>went</td>
-        <td>has gone</td>
+        <td>He</td>
+        <td>Er</td>
+        <td>Ihn</td>
+        <td>Ihm</td>
+       <td>Seiner</td>
       </tr>
       
        <tr>
-        <td>We</td>
-        <td>Go</td>
-        <td>went</td>
-        <td>have gone</td>
+        <td>She</td>
+        <td>Sie</td>
+        <td>Sie</td>
+        <td>Ihr</td>
+        <td>Ihrer</td>
       </tr>
       <tr>
-        <td>You</td>
-        <td>Go</td>
-        <td>went</td>
-        <td>have gone</td>
+        <td>It</td>
+        <td>Es</td>
+        <td>Es</td>
+        <td>Ihm</td>
+       <td>Seiner</td>
       </tr>
+      <tr>
+        <td>We</td>
+        <td>Wir</td>
+        <td>Uns</td>
+        <td>Uns</td>
+       <td>Unser</td>
+        </tr>
+      <tr>
+        <td>You(pl)</td>
+        <td>Ihr</td>
+        <td>Euch</td>
+        <td>Euch</td>
+       <td>Euer</td>
+        </tr>
       <tr>
         <td>They</td>
-        <td>Go</td>
-        <td>went</td>
-        <td>have gone</td>
+        <td>sie</td>
+        <td>sie</td>
+        <td>ihnen</td>
+       <td>ihrer</td>
+        </tr>
+      <tr>
+        <td>You</td>
+        <td>Sie</td>
+        <td>Sie</td>
+        <td>Ihnen</td>
+       <td>Ihrer</td>
       </tr>
     </tbody>
   </table>
