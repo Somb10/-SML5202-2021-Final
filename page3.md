@@ -1,6 +1,7 @@
 <h1>Page 3</h1>
 <div class="row">
 <div class="col-sm-6">
+ <h2>HTML Image</h2>
 <p><img src="https://cdn.pixabay.com/photo/2017/09/29/17/16/teacher-2799822_640.jpg"width:100%"></p>
 <p>Personal Pronouns</p>
 </div>
