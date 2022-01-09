@@ -7,7 +7,7 @@ title: Home
 <h2>Here Are Our Top Ten Benefits of Learning Languages:
 :</h2>
 
-<ol>
+<ul>
   <li>Connect With More People</li>
   <li>Advance Your Career</li>
   <li>Cognitive Benefits</li>
@@ -15,12 +15,8 @@ title: Home
   <li>Boost Your Confidence</li>
   <li>Strengthen Your Decision Making</li>
   <li>Gain Perspective and Understanding</li>
-</ol>  
-   <h2>Days of the week at university:</h2>
-   <ul>
-  <li>Monday</li>
-  <li>Wednesday</li>
-  <li>Thursday</li>
-  <li>Friday</li>
+  <li>See The World</li>
+  <li>Improves Your Attention Span</li>
+  <li>Easier To Learn Other Languages</li>
 </ul>  
-
+ 
