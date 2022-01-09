@@ -5,8 +5,7 @@ title: Page2
 
 
 <body style="background-color:black;">
-<div class="row">
- <div class="col-sm-4">
+
 <h1>Basics</h1>
 <p>I bet you did not know that German and English are in the same language family.This is great news as it means there are a lot of similiarities. Welcome aboard the German Course!</p>
  
@@ -17,7 +16,7 @@ title: Page2
  <h2>Hallo</h2>
 <p>Hallo und Tschüss are usually used in an informal setting.</p>
 <hr>
- </div>
+ 
 <div class="row">
 <div class="col-sm-6">
 <h3>Basic Terms</h3>
