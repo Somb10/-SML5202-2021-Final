@@ -37,3 +37,57 @@ title: Page2
  
  <h5>Drag and Drop the Fruit</h5>
  <iframe src="https://h5p.org/h5p/embed/1241128" width="1090" height="283" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Drag the Words"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+ <div class="col-sm-6">
+ <p>Verb table</p>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Infinitive</th>
+        <th>Past simple</th>
+        <th>Past participal</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>I</td>
+        <td>Go</td>
+        <td>went</td>
+        <td>have gone</td>
+      </tr>
+      <tr>
+        <td>You</td>
+        <td>Go</td>
+        <td>went</td>
+        <td>have gone</td>
+      </tr>
+      <tr>
+        <td>He/she/it</td>
+        <td>Goes</td>
+        <td>went</td>
+        <td>has gone</td>
+      </tr>
+      
+       <tr>
+        <td>We</td>
+        <td>Go</td>
+        <td>went</td>
+        <td>have gone</td>
+      </tr>
+      <tr>
+        <td>You</td>
+        <td>Go</td>
+        <td>went</td>
+        <td>have gone</td>
+      </tr>
+      <tr>
+        <td>They</td>
+        <td>Go</td>
+        <td>went</td>
+        <td>have gone</td>
+      </tr>
+    </tbody>
+  </table>
+  
+</div>
+</div>
