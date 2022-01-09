@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 ---
 title: Home
 ---
