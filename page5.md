@@ -5,7 +5,7 @@ title: wikipedia
 <body style="background-color:powderblue;">
 <h1>Wikipedia search tool</h1>
 <p>This example searches the English Wikipedia site. Type a term into the box and see the results appear on this page.</p>
-<p>Note: In this example, it is placed within a column container. However, it can be simply included in a full page too.</p>
+
 
 <div class="row">
 <div class="col-sm-4">
@@ -34,4 +34,4 @@ title: wikipedia
 <div class="col-sm-6">
 <p>Germany (German: Deutschland, pronounced [ˈdɔʏtʃlant] (About this soundlisten)), officially the Federal Republic of Germany,[e] is a country in Central Europe. It is the second-most populous country in Europe after Russia, and the most populous member state of the European Union. Germany is situated between the Baltic and North seas to the north, and the Alps to the south; it covers an area of 357,022 square kilometres (137,847 sq mi), with a population of over 83 million within its 16 constituent states. It borders Denmark to the north, Poland and the Czech Republic to the east, Austria and Switzerland to the south, and France, Luxembourg, Belgium, and the Netherlands to the west. The nation's capital and largest city is Berlin, and its financial centre is Frankfurt; the largest urban area is the Ruhr. </p>
 </div>
-</div>
+
