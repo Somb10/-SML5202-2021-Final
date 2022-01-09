@@ -20,12 +20,4 @@ title: Home
   <li>Easier To Learn Other Languages</li>
 </ul>  
  
- <!DOCTYPE html>
-<html>
-<body>
-
-<iframe width="420" height="345" src="https://www.youtube.com/watch?v=VQRjouwKDlU">
-</iframe>
-
-</body>
-</html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MMmOLN5zBLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
