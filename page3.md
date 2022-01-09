@@ -8,6 +8,88 @@
 <p>There are four sets of pronouns in German, one for each of the four cases (nominative, accusative, dative, genitive). When using pronouns, they must agree with the case, person, gender, and number of the nouns they are replacing</p>
 </div>
 </div>
+ <div class="col-sm-6">
+ <p>Verb table</p>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Nominative</th>
+        <th>Accusative</th>
+        <th>Dative</th>
+       <th>Genitive</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>I</td>
+        <td>Ich</td>
+        <td>Mich</td>
+        <td>Mir</td>
+       <td>Meiner</td>
+      </tr>
+      <tr>
+        <td>You</td>
+        <td>Du</td>
+        <td>Dich</td>
+        <td>Dir</td>
+       <td>Deiner</td>
+      </tr>
+      <tr>
+        <td>He</td>
+        <td>Er</td>
+        <td>Ihn</td>
+        <td>Ihm</td>
+       <td>Seiner</td>
+      </tr>
+      
+       <tr>
+        <td>She</td>
+        <td>Sie</td>
+        <td>Sie</td>
+        <td>Ihr</td>
+        <td>Ihrer</td>
+      </tr>
+      <tr>
+        <td>It</td>
+        <td>Es</td>
+        <td>Es</td>
+        <td>Ihm</td>
+       <td>Seiner</td>
+      </tr>
+      <tr>
+        <td>We</td>
+        <td>Wir</td>
+        <td>Uns</td>
+        <td>Uns</td>
+       <td>Unser</td>
+        </tr>
+      <tr>
+        <td>You(pl)</td>
+        <td>Ihr</td>
+        <td>Euch</td>
+        <td>Euch</td>
+       <td>Euer</td>
+        </tr>
+      <tr>
+        <td>They</td>
+        <td>sie</td>
+        <td>sie</td>
+        <td>ihnen</td>
+       <td>ihrer</td>
+        </tr>
+      <tr>
+        <td>You</td>
+        <td>Sie</td>
+        <td>Sie</td>
+        <td>Ihnen</td>
+       <td>Ihrer</td>
+      </tr>
+    </tbody>
+  </table>
+  
+</div>
+</div>
 
 
 <p><a href="https://www.deutsch-lernen.com/learn-german-online/beginners/summary.php">Try Deutsch lernen and practise German Grammar</a></p>
