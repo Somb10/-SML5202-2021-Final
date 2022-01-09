@@ -8,7 +8,7 @@ title: wikipedia
 
 <div class="row">
 <div class="col-sm-4">
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" style="width:100%" /></p>
+<p><img src="http://mapsopensource.com/images/germany-political-map.gif" style="width:100%" /></p>
 <p>Flag of Portugal</p>
 </div>
 <div class="col-sm-8">
