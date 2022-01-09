@@ -2,8 +2,10 @@
 title: Page2
 ---
 
-<html>
-<body>
+
+<body style="background-color:powderblue;">
+
+
 
 <h1>Basics</h1>
 <p>I bet you did not know that German and English are in the same language family.This is great news as it means there are a lot of similiarities. Welcome aboard the German Course!</p>
