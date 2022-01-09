@@ -1,4 +1,17 @@
 <h1>Page 3</h1>
+<div class="row">
+<div class="col-sm-6">
+<p><img src="http://i.ytimg.com/vi/zApm7GfRtNw/hqdefault.jpg"width:100%"></p>
+<p>Personal Pronouns</p>
+</div>
+<div class="col-sm-6">
+<p>There are four sets of pronouns in German, one for each of the four cases (nominative, accusative, dative, genitive). When using pronouns, they must agree with the case, person, gender, and number of the nouns they are replacing</p>
+</div>
+</div>
+
+<p>There are four sets of pronouns in German, one for each of the four cases (nominative, accusative, dative, genitive). When using pronouns, they must agree with the case, person, gender, and number of the nouns they are replacing.</p>
+<p><a href="https://www.deutsch-lernen.com/learn-german-online/beginners/summary.php">Try Deutsch lernen and practise German Grammar</a></p>
+
 <h1>Example Song Gap-Fill</h1>
 <p>This uses an embedded YouTube video and H5P Fill in the Blanks exercise</p>
 <p>Instructions: listen to the song and fill in the blanks</p>
