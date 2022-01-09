@@ -4,7 +4,7 @@ title: Home
 
 <h1>Welcome</h1>
 <p>Welcome to German made easy. Many beginner level language students have the misconception that German is an almost impossible language to learn. Our aim is to prove to you that with the right tools, anything is possible.</p>
-<h2>Here Are Our Top Ten Benefits of Learning Languages:
+<h2>Here Are Our Top Ten Benefits of Learning Languages
 :</h2>
 
 <ul>
