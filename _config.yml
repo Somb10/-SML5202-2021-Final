@@ -19,7 +19,7 @@ github:
 # --- Change the words after the colons to change your navigation labels --- #
 navbar-links:
   page1: Home
-  page2: Basic Vocab
-  page3: Grammar
-  page4: Exercises
+  page2: Elementary
+  page3: Intermediate
+  page4: Advanced
   page5: Quiz
