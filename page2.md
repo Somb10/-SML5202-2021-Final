@@ -3,11 +3,13 @@ title: Page2
 ---
 
 
-<div style="background-color:black;color:white;">White text, black background.</div>
+
+<body style="background-color:black;">
+ 
 
 
 <h1>Basics</h1>
-<p>I bet you did not know that German and English are in the same language family.This is great news as it means there are a lot of similiarities. Welcome aboard the German Course!</p>
+<p style="color:white;"I bet you did not know that German and English are in the same language family.This is great news as it means there are a lot of similiarities. Welcome aboard the German Course!</p>
  
  <h1>Capitals</h1>
 <p>In German names and words at the start of sentences are capitalised. In German, all nouns are capitalised.</p>
