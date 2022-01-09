@@ -28,3 +28,4 @@ title: wikipedia
 <hr>
 <div style="clear:both;"></div>
 <script src="wiki.js"></script>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=13uM5CozcbhtHp2LI5WvkGkvILsG-y4yt&ehbc=2E312F" width="640" height="480"></iframe>
