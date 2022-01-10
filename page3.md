@@ -90,7 +90,7 @@
   </table>
   
 </div>
-</div>
+
 
 
 <p><a href="https://www.deutsch-lernen.com/learn-german-online/beginners/summary.php">Try Deutsch lernen and practise German Grammar</a></p>
